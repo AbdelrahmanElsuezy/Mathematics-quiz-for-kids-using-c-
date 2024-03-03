@@ -1,4 +1,5 @@
-![Screenshot 2024-03-03 234029](https://github.com/AbdelrahmanElsuezy/Mathematics-quiz-for-kids-using-c-/assets/125666795/535ca265-eb60-48b9-a367-1f264b66a0a9)# 
+  <img src="![Screenshot 2024-03-03 234029](https://github.com/AbdelrahmanElsuezy/Mathematics-quiz-for-kids-using-c-/assets/125666795/535ca265-eb60-48b9-a367-1f264b66a0a9)# " alt="Your Image" style="width: 50%; height: auto; display: block; margin: 0 auto;">
+
 ![Screenshot 2024-03-03 233920](https://github.com/AbdelrahmanElsuezy/Mathematics-quiz-for-kids-using-c-/assets/125666795/f19dbbbc-1319-47fb-8217-f14a3965a31a)<br>
 Mathematics-quiz-for-kids-using-c-<br>
 Mathematics quiz for kids using c++.<br>
