@@ -7,3 +7,4 @@ Mathematics quiz for kids using c++.<br>
 ->There is a score shows how many questions you solved right.<br>
 Instructions:<br>
 1)You should login with the data from file named "LOGINDATA.TXT"<br>
+2)your password must be at least 6 characters.
